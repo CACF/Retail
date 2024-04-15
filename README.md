@@ -13,7 +13,7 @@
 
 3. Open the command prompt in the repository folder.
 4. Execute the following commands:
-   - pip install virtualenv
+   - pip install virtualenv      
    - virtualenv venv
    -  for windows venv\Scripts\activate
    -  for ubuntu venv\bin\activate
@@ -24,7 +24,7 @@
 5. Run the command `pip install -r requirements.txt`.
 
 6. Execute the following commands:
-   -python manage.py migrate
-   -python manage.py makemigrations
+   - python manage.py migrate
+   - python manage.py makemigrations
 **Run the Application:**
 7. Execute the command `sh runLocal.sh` to start the application locally.
