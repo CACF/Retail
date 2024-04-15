@@ -15,7 +15,8 @@
 4. Execute the following commands:
    - pip install virtualenv
    - virtualenv venv
-   - venv\Scripts\activate
+   -  for windows venv\Scripts\activate
+   -  for ubuntu venv\bin\activate
    - create database in mysql
    - if you want your own configuration of datebase .you can change it from runlocal.sh
 
