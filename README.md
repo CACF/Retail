@@ -26,5 +26,7 @@
 6. Execute the following commands:
    - python manage.py migrate
    - python manage.py makemigrations
+
 **Run the Application:**
+
 7. Execute the command `sh runLocal.sh` to start the application locally.
